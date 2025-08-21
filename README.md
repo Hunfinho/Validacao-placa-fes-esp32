@@ -9,7 +9,7 @@ Hardware Necessário
 * Potenciômetro de 10kΩ
 * Osciloscópio utilizado para medição
 
-  ![BancadaFinal](https://github.com/user-attachments/assets/99552a50-1acb-4c5b-a13d-974be9f7b4d7)
+ ![IMG_0536](https://github.com/user-attachments/assets/4aa8f1a5-53cc-414b-a9ce-32cdfc0acb08)
 
 Conexões Principais
 * Potenciômetro: GPIO 4
